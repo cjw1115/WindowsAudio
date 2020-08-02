@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsAudio", "WindowsAudio\WindowsAudio.csproj", "{E7006E76-FF97-48D0-A1BC-50873FE55DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7006E76-FF97-48D0-A1BC-50873FE55DCF}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{E7006E76-FF97-48D0-A1BC-50873FE55DCF}.Debug|ARM64.Build.0 = Debug|ARM64
+		{E7006E76-FF97-48D0-A1BC-50873FE55DCF}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{E7006E76-FF97-48D0-A1BC-50873FE55DCF}.Debug|x64.ActiveCfg = Debug|x64
+		{E7006E76-FF97-48D0-A1BC-50873FE55DCF}.Debug|x64.Build.0 = Debug|x64
+		{E7006E76-FF97-48D0-A1BC-50873FE55DCF}.Debug|x64.Deploy.0 = Debug|x64
+		{E7006E76-FF97-48D0-A1BC-50873FE55DCF}.Release|ARM64.ActiveCfg = Release|ARM64
+		{E7006E76-FF97-48D0-A1BC-50873FE55DCF}.Release|ARM64.Build.0 = Release|ARM64
+		{E7006E76-FF97-48D0-A1BC-50873FE55DCF}.Release|ARM64.Deploy.0 = Release|ARM64
+		{E7006E76-FF97-48D0-A1BC-50873FE55DCF}.Release|x64.ActiveCfg = Release|x64
+		{E7006E76-FF97-48D0-A1BC-50873FE55DCF}.Release|x64.Build.0 = Release|x64
+		{E7006E76-FF97-48D0-A1BC-50873FE55DCF}.Release|x64.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05250011-E535-43A6-BF71-5C3B08FC9622}
+	EndGlobalSection
+EndGlobal
